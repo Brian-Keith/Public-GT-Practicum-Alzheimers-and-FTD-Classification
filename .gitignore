@@ -1,0 +1,7 @@
+# Data that's too big for GH
+ds004504/
+*.zip
+02 Project/data/ConsolidatedParticipantData.pkl
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
